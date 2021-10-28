@@ -4,7 +4,7 @@
 	<style>
 		.head1 {
 			font-size:40px;
-			color:#009900;
+			color:#020A0C;
 			font-weight:bold;
 		}
 		.head2 {
@@ -67,7 +67,7 @@
 	
 	<!-- Menu Navigation Bar -->
 	<div class="menu">
-		<a href="#home">Educatiom</a>
+		<a href="#home">Education</a>
 		<a href="#news">Writing</a>
 		<a href="#notification">Others</a>
 		<div class="menu-log">
