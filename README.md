@@ -7,11 +7,7 @@
 			color:#020A0C;
 			font-weight:bold;
 		}
-		.head2 {
-			font-size:17px;
-			margin-left:10px;
-			margin-bottom:15px;
-		}
+		
 		body {
 			margin: 0 auto;
 			background-position:center;
@@ -62,7 +58,6 @@
 	<!-- Header Section -->
 	<header>
 		<div class="head1">Welcome</div>
-		<div class="head2">Jebasingh R</div>
 	</header>
 	
 	<!-- Menu Navigation Bar -->
@@ -78,7 +73,8 @@
 	<!-- Body section -->
 	<div class = "body_sec">
 		<section id="Content">
-			<h3>THIS PAGE IS UNDER CONSTRUCTION</h3>
+			<h3>THIS PAGE IS UNDER CONSTRUCTION   </h3><br>
+		I'm a Graduate student in Mathematics.
 		</section>
 	</div>
 	
