@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Page Layout</title>
@@ -22,7 +21,7 @@
 		.menu {
 			position: sticky;
 			top: 0;
-			background-color: #009900;
+			background-color: #0BA9CC;
 			padding:10px 0px 10px 0px;
 			color:white;
 			margin: 0 auto;
@@ -62,29 +61,29 @@
 	
 	<!-- Header Section -->
 	<header>
-		<div class="head1">GeeksforGeeks</div>
-		<div class="head2">A computer science portal for geeks</div>
+		<div class="head1">Welcome</div>
+		<div class="head2">Jebasingh R</div>
 	</header>
 	
 	<!-- Menu Navigation Bar -->
 	<div class="menu">
-		<a href="#home">HOME</a>
-		<a href="#news">NEWS</a>
-		<a href="#notification">NOTIFICATIONS</a>
+		<a href="#home">Educatiom</a>
+		<a href="#news">Writing</a>
+		<a href="#notification">Others</a>
 		<div class="menu-log">
-			<a href="#login">LOGIN</a>
+			<a href="#login">Personal</a>
 		</div>
 	</div>
 	
 	<!-- Body section -->
 	<div class = "body_sec">
 		<section id="Content">
-			<h3>Content section</h3>
+			<h3>THIS PAGE IS UNDER CONSTRUCTION</h3>
 		</section>
 	</div>
 	
 	<!-- Footer Section -->
-	<footer>Footer Section</footer>
+	<footer>jebasinghr3@gmail.com</footer>
 </body>
 </html>				
 
