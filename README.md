@@ -9,10 +9,13 @@
     <h2>About me</h2>
     <p> I'm a Graduate student in  Mathematics </p>
     <h2> Educational Qualification </h2>
+    <p> Coming soon... </p>
       <hr>
     <h2> Writings </h2>
+      <p> Coming soon... </p>
     <hr>
     <h2> Others </h2>
+      <p> Coming soon... </p>
     <hr>
   </body>
   </html>
