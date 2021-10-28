@@ -1,7 +1,5 @@
 <html>
-  <head> 
-    <title>Homepage of Jebasingh R</title>
-  </head>
+
   <body>
     <h1>Welcome to my page</h1> 
     <b> PLEASE NOTE THAT THIS PAGE IS UNDER CONSTRUCTION</b> <br>
