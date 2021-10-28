@@ -4,10 +4,16 @@
   </head>
   <body>
     <h1>Welcome to my page</h1> 
-    <b>THIS PAGE IS UNDER CONSTRUCTION</b> <br>
+    <b> PLEASE NOTE THAT THIS PAGE IS UNDER CONSTRUCTION</b> <br>
     <hr>
     <h2>About me</h2>
     <p> I'm a Graduate student in  Mathematics </p>
+    <h2> Educational Qualification </h2>
+      <hr>
+    <h2> Writings </h2>
+    <hr>
+    <h2> Others </h2>
+    <hr>
   </body>
   </html>
   
