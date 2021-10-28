@@ -82,8 +82,7 @@
 		</section>
 	</div>
 	
-	<!-- Footer Section -->
-	<footer>jebasinghr3@gmail.com</footer>
+
 </body>
 </html>				
 
