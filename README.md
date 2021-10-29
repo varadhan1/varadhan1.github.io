@@ -1,6 +1,8 @@
 <html>
   <head>
-    <h1><p style="color:#8AACF1">PARACOSM</p> </h1> <br>
+    <h1 style="font-family:verdana;"><p style="color:#8AACF1">PARACOSM</p></h1>
+    <br>
+ 
   </head>
   <body>
    <p style="color:#E10000">THIS WORLD IS UNDER CONSTRUCTION </p>  <br> 
