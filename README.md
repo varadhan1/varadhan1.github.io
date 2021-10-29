@@ -1,85 +1,34 @@
-<html>
-<head>
-	<title>Page Layout</title>
-	<style>
-		.head1 {
-			font-size:40px;
-			color:#020A0C;
-			font-weight:bold;
-		}
-		
-		body {
-			margin: 0 auto;
-			background-position:center;
-			background-size: contain;
-		}
-	
-		.menu {
-			position: sticky;
-			top: 0;
-			background-color: #898E8F;
-			padding:10px 0px 10px 0px;
-			color:white;
-			margin: 0 auto;
-			overflow: hidden;
-		}
-		.menu a {
-			float: left;
-			color: white;
-			text-align: center;
-			padding: 14px 16px;
-			text-decoration: none;
-			font-size: 20px;
-		}
-		.menu-log {
-			right: auto;
-			float: right;
-		}
-		footer {
-			width: 100%;
-			bottom: 0px;
-			background-color: #000;
-			color: #fff;
-			position: absolute;
-			padding-top:20px;
-			padding-bottom:50px;
-			text-align:center;
-			font-size:30px;
-			font-weight:bold;
-		}
-		.body_sec {
-			margin-left:20px;
-		}
-	</style>
-</head>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Paracosm</title>
+</head>
 <body>
-	
-	<!-- Header Section -->
-	<header>
-		<div class="head1">Welcome</div>
-	</header>
-	
-	<!-- Menu Navigation Bar -->
-	<div class="menu">
-		<a href="#home">Education</a>
-		<a href="#news">Writing</a>
-		<a href="#notification">Others</a>
-		<div class="menu-log">
-			<a href="#login">Personal</a>
-		</div>
-	</div>
-	
-	<!-- Body section -->
-	<div class = "body_sec">
-		<section id="Content">
-			<h3>THIS PAGE IS UNDER CONSTRUCTION   </h3><br>
-		I'm a Graduate student in Mathematics.
-		</section>
-	</div>
-	
+<div id="fwtitle">
+<div id="toptitle">
+<h1></h1>
+</div>
+</div>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="publication.html">Writings</a></div>
+<div class="menu-item"><a href="teaching.html">Others</a></div>
+</td>
+<td id="layout-content">
+
+<td align="left"><ul>
+
+Email: jebasinghr3@gmail.com 
+
+
+
 
 </body>
-</html>				
-
-  
+</html>
