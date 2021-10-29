@@ -1,6 +1,6 @@
 <html>
   <head>
-   <p style="color:blue">Paracosm</p> 
+    <h1><p style="color:blue">PARACOSM</p> </h1>
   </head>
   <body>
   </body>
