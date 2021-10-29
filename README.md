@@ -1,10 +1,10 @@
 <html>
   <head>
-    <h1><p style="color:blue">PARACOSM</p> </h1> <br>
+    <h1><p style="color:#707475">PARACOSM</p> </h1> <br>
     
   </head>
   <body>
-    THIS WORLD IS UNDER CONSTRUCTION
+    <p>THIS WORLD IS UNDER CONSTRUCTION </p>
   <h2> About Me </h2> <br>
   <hr>
     <h2> Writings </h2>
